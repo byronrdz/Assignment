@@ -19,7 +19,7 @@ Later, the function **gsub()** is used to change the names of the dataframe in a
 
 After these steps, the information is ready to be summarized. To summarize the information there are two key functions included in the library **deplyr**, the **group_by()** which, in this case, groups the data by activity and by subject, and the function **summarise_each()** which summarizes with the **mean()** according to the grouping defined in the precedent step.
 
-Finally, the dataset is loaded in a file called "tidyData.txt" through the function "write.table()".
+Finally, the dataset is loaded in a file called "tidyData.txt" through the function **write.table()**.
 
 
 
