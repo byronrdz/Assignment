@@ -12,65 +12,65 @@ The variables containing the results of the measurements are as follows:
 *subject*
 	ID for the subject in which measurement is performed
 	
-*tBodyAcc.mean.X*           *tBodyAcc.mean.Y*           *tBodyAcc.mean.Z*
-	Mean of the acceleration measurements in the axis X,Y and Z. Units : Gravity 'g'
+*tBodyAcc.mean.X*           *tBodyAcc.mean.Y*           *tBodyAcc.mean.Z*\s\s
+	Mean of the acceleration measurements in the axis X,Y and Z. Units : Gravity 'g'\s\s\s\s
 	
-*tBodyAcc.std.X*            *tBodyAcc.std.Y*            *tBodyAcc.std.Z*
-    Standard deviation for the body acceleration measurements in the axis X,Y and Z. Units: Gravity 'g'
+*tBodyAcc.std.X*            *tBodyAcc.std.Y*            *tBodyAcc.std.Z*\s\s
+    Standard deviation for the body acceleration measurements in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tGravityAcc.mean.X*        *tGravityAcc.mean.Y*        *tGravityAcc.mean.Z*
-	Mean for the gravity acceleration measurements  in the axis X,Y and Z. Units: Gravity 'g'
+*tGravityAcc.mean.X*        *tGravityAcc.mean.Y*        *tGravityAcc.mean.Z*\s\s
+	Mean for the gravity acceleration measurements  in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tGravityAcc.std.X*         *tGravityAcc.std.Y*         *tGravityAcc.std.Z*
-	Standard deviation for the gravity acceleration measurements  in the axis X,Y and Z. Units: Gravity 'g'
+*tGravityAcc.std.X*         *tGravityAcc.std.Y*         *tGravityAcc.std.Z*\s\s
+	Standard deviation for the gravity acceleration measurements  in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyAccJerk.mean.X*		*tBodyAccJerk.mean.Y*       *tBodyAccJerk.mean.Z*
-	Mean for the body jerk acceleration measurements in the axis X,Y and Z. Units: Gravity 'g'
+*tBodyAccJerk.mean.X*		*tBodyAccJerk.mean.Y*       *tBodyAccJerk.mean.Z*\s\s
+	Mean for the body jerk acceleration measurements in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyAccJerk.std.X*        *tBodyAccJerk.std.Y*        *tBodyAccJerk.std.Z*       
-	Standard deviation for the body jerk acceleration measurements in the axis X,Y and Z. Units: Gravity 'g'
+*tBodyAccJerk.std.X*        *tBodyAccJerk.std.Y*        *tBodyAccJerk.std.Z*\s\s       
+	Standard deviation for the body jerk acceleration measurements in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyGyro.mean.X*          *tBodyGyro.mean.Y*          *tBodyGyro.mean.Z*
-	Mean for the measurements of the angular velocity in the axis X,Y and Z. Units: rads/sec
+*tBodyGyro.mean.X*          *tBodyGyro.mean.Y*          *tBodyGyro.mean.Z*\s\s
+	Mean for the measurements of the angular velocity in the axis X,Y and Z. Units: rads/sec\s\s\s\s
 	
-*tBodyGyro.std.X*           *tBodyGyro.std.Y*			*tBodyGyro.std.Z*
-	Standard deviation for the measurements of the angular velocity in the axis X,Y and Z. Units: rads/sec
+*tBodyGyro.std.X*           *tBodyGyro.std.Y*			*tBodyGyro.std.Z*\s\s
+	Standard deviation for the measurements of the angular velocity in the axis X,Y and Z. Units: rads/sec\s\s\s\s
 	
-*tBodyGyroJerk.mean.X*      *tBodyGyroJerk.mean.Y*      *tBodyGyroJerk.mean.Z*
-	Mean for the measurements of the angular jerk in the axis X,Y and Z. Units: Gravity 'g'
+*tBodyGyroJerk.mean.X*      *tBodyGyroJerk.mean.Y*      *tBodyGyroJerk.mean.Z*\s\s
+	Mean for the measurements of the angular jerk in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyGyroJerk.std.X*		*tBodyGyroJerk.std.Y*       *tBodyGyroJerk.std.Z*
-	Standard deviation for the measurements of the angular jerk in the axis X,Y and Z. Units: Gravity 'g'
+*tBodyGyroJerk.std.X*		*tBodyGyroJerk.std.Y*       *tBodyGyroJerk.std.Z*\s\s
+	Standard deviation for the measurements of the angular jerk in the axis X,Y and Z. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyAccMag.mean*
-	Mean for the body acceleration. Units: Graviti 'g'
+*tBodyAccMag.mean*\s\s
+	Mean for the body acceleration. Units: Graviti 'g'\s\s\s\s
 	
-*tBodyAccMag.std*
-	Standard deviation for the body acceleration. Units: Gravity 'g'
+*tBodyAccMag.std*\s\s
+	Standard deviation for the body acceleration. Units: Gravity 'g'\s\s\s\s
 	
-*tGravityAccMag.mean*
-	Mean for the gravity acceleration. Units: Graviti 'g'
+*tGravityAccMag.mean*\s\s
+	Mean for the gravity acceleration. Units: Graviti 'g'\s\s\s\s
 	
-*tGravityAccMag.std*
-	Standard deviation for the gravity acceleration. Units: Gravity 'g'
+*tGravityAccMag.std*\s\s
+	Standard deviation for the gravity acceleration. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyAccJerkMag.mean*      
-	Mean for the jerk acceleration. Units: Graviti 'g'
+*tBodyAccJerkMag.mean*\s\s      
+	Mean for the jerk acceleration. Units: Graviti 'g'\s\s\s\s
 	
-*tBodyAccJerkMag.std*
-	Standard deviation for the jerk| acceleration. Units: Gravity 'g'
+*tBodyAccJerkMag.std*\s\s
+	Standard deviation for the jerk| acceleration. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyGyroMag.mean*
-	Mean for the angular velocity. Units: rads/sec
+*tBodyGyroMag.mean*\s\s
+	Mean for the angular velocity. Units: rads/sec\s\s\s\s
 	
-*tBodyGyroMag.std*
-	Standard deviation for the angular velocity. Units: rads/sec
+*tBodyGyroMag.std*\s\s
+	Standard deviation for the angular velocity. Units: rads/sec\s\s\s\s
 	
-*tBodyGyroJerkMag.mean*
-	Mean for the jerk gyroscopic acceleration. Units: Gravity 'g'
+*tBodyGyroJerkMag.mean*\s\s
+	Mean for the jerk gyroscopic acceleration. Units: Gravity 'g'\s\s\s\s
 	
-*tBodyGyroJerkMag.std*
-	Standard deviation for the jerk gyroscopic acceleration. Units: Gravity 'g'
+*tBodyGyroJerkMag.std*\s\s
+	Standard deviation for the jerk gyroscopic acceleration. Units: Gravity 'g'\s\s\s\s
 
 *fBodyAcc.mean.X*           *fBodyAcc.mean.Y*			*fBodyAcc.mean.Z*          
 *fBodyAcc.std.X*            *fBodyAcc.std.Y*            *fBodyAcc.std.Z*
@@ -85,6 +85,6 @@ The variables containing the results of the measurements are as follows:
 *fBodyBodyGyroMag.mean*    
 *fBodyBodyGyroMag.std*      
 *fBodyBodyGyroJerkMag.mean* 
-*fBodyBodyGyroJerkMag.std* 
+*fBodyBodyGyroJerkMag.std*\s\s 
 
 These variables correspond to the frequency domain of the measurements described in the precedent part. The prefix "t" denotes time domain, "f" denotes frequency domain.
